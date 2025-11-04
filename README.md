@@ -1865,10 +1865,10 @@ See [LICENSE](LICENSE) file for full details.
 Android Developer | Firebase Specialist
 
 **Contact:**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Website](https://yourwebsite.com)
+- GitHub: [@Muhammad Bilal](https://github.com/Muhammad-bilal-503)
+- Email: mughalbillal001235@g,mail.com
+- LinkedIn: [Muhammad Bilal](www.linkedin.com/in/muhammad-bilal-aa5364344)
+
 
 **Social:**
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
@@ -1899,7 +1899,7 @@ Android Developer | Firebase Specialist
 
 - **Stars:** ⭐⭐⭐⭐⭐
 - **Forks:** 50+
-- **Contributors:** 10+
+- **Contributors:** 5+
 - **Last Updated:** [Current Date]
 - **License:** MIT
 - **Min SDK:** 21
